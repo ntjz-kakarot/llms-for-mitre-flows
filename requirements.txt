@@ -1,0 +1,4 @@
+jupyter
+pytorch
+huggingface
+huggingface_hub
